@@ -7,7 +7,7 @@ function Shop() {
   return (
     <>
     
-      <div className="container-fluid  py-5" >
+      <div className="container-fluid  pt-5" >
      <div className='text-center'>
         <h1 className='fw-bolder' >Why Shop <span className='under-line'>With</span> Glowing?</h1>
      </div>

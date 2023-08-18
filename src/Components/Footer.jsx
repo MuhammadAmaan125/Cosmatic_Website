@@ -66,8 +66,7 @@ function Footer() {
     <div className="row  f-row  ">
       <div className="col footer-content col-lg-4 col-md-6 col-sm-8 col-12">
             <div className=' d-flex justify-content-center '>
-            <p className='text-center mt-4 fw-bolder'> © 2023 codewithamaan          
-    </p>
+            <p className='text-center mt-4 fw-bolder'> Create by Muhammad Aman</p>
             </div>
         </div> 
         <div className="hide-box col col-lg-4 col-md-6 col-sm-8 col-12">

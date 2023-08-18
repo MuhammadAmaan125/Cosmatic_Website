@@ -27,10 +27,9 @@ window.addEventListener("scroll", function() {
 
   return (
     <>
-      <div className="container-fluid  ">
-
-        <div className='header-content mt-3' id='home'>
-          <div className='header-content-div'>
+      <div className="container-fluid">
+        <div className='header-content ' id='home'>
+          <div className='header-content-div mt-2'>
           <form class="form-inline  my-2 my-lg-0">
       <input class="form-control inp mr-sm-2"  placeholder="Search product" aria-label="Search"/>
     <i className='fas'><FaSearch/></i>
@@ -43,7 +42,7 @@ window.addEventListener("scroll", function() {
             <CiUser className='icon ' />
             <AiOutlineStar className='icon' />
             <span className='header-text'>$0.00</span>
-            <BsHandbag className='icon ' />
+            <BsHandbag className='icon' />
           </div>
         </div>
       </div>
@@ -52,7 +51,7 @@ window.addEventListener("scroll", function() {
             <div className='nav-heading' >
               <h4 className=' fw-bolder nav-head'>GLOWING</h4>
             </div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <button class="navbar-toggler mt-1" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
 
